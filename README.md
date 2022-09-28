@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+
 ## About The Project
 
 
@@ -16,8 +17,7 @@ Typescript is currently one of the most popular programming languages for web de
 ## Getting Started
 
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This project has not this purpose.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -28,7 +28,7 @@ The aim of this project is to learn the TypeScript language, this will be divide
 
 - [x] Basic types
 - [ ] Control flow statements
-- [ ] Crite and use functions
+- [ ] Create and use functions
 - [ ] Classes
 - [ ] Interfaces
 - [ ] Advanced types
