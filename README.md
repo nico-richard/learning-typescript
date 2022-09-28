@@ -7,9 +7,9 @@ Typescript is currently one of the most popular programming languages for web de
 
 ### Technologies Used
 
-- HTML
-- Javascript
 - TypeScript
+- Javascript
+- HTML
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
